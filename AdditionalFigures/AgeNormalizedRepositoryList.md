@@ -1,4 +1,4 @@
-| Repository                |   # Methods | # Buggy Methods (%)   | # Extremely Buggy Methods (%)   | Snapshot   |   Contributors |   Stars |
+| Repository                |   # Methods | # Buggy Methods (%)   | # Recurrently Buggy Methods (%)   | Snapshot   |   Contributors |   Stars |
 |:--------------------------|------------:|:----------------------|:--------------------------------|:-----------|---------------:|--------:|
 | mage                      |       49993 | 922(1.84)             | 128(0.26)                       | 9de731b    |            317 |    2094 |
 | hadoop                    |       40188 | 148(0.37)             | 4(0.01)                         | 4c5cd7     |            592 |   14500 |
